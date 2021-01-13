@@ -1,0 +1,4 @@
+node_modules/
+dist/
+src/version.json
+version.json
